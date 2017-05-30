@@ -1,0 +1,8 @@
+﻿  pars.cpp
+c:\laba_4\pars.cpp(6): warning C4018: <: несоответствие типов со знаком и без знака
+c:\laba_4\pars.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\laba_4\pars.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+c:\laba_4\pars.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+c:\laba_4\pars.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
+  laba_4.vcxproj -> C:\laba_4\Debug\laba_4.exe
+  laba_4.vcxproj -> C:\laba_4\Debug\laba_4.pdb (Full PDB)
