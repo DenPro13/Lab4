@@ -1,0 +1,17 @@
+﻿  Interpretator.cpp
+Interpretator.cpp(9): warning C4018: <: несоответствие типов со знаком и без знака
+  lex.cpp
+lex.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+lex.cpp(97): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+main.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+  pars.cpp
+pars.cpp(6): warning C4018: <: несоответствие типов со знаком и без знака
+pars.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+pars.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+pars.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 1680 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  laba_4.vcxproj -> C:\laba_4\Release\laba_4.exe
+  laba_4.vcxproj -> C:\laba_4\Release\laba_4.pdb (Full PDB)
